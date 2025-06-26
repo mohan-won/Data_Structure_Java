@@ -23,7 +23,7 @@ class Method
 }
 public class Singlelist extends Method {
 	public static void main(String[] args) {
-		insertAtBegain(1);
+		insertAtBegain(3);
 
 	}
 
